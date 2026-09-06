@@ -74,17 +74,6 @@ Distributed Systems and Cloud Native technologies.
   <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
   <br>Nginx
 </td>
-
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
-  <br>Prometheus
-</td>
-
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
-  <br>Grafana
-</td>
-
 </tr>
 </table>
 
