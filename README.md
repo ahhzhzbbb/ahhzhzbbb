@@ -77,55 +77,89 @@ Distributed Systems and Cloud Native technologies.
 </tr>
 </table>
 
-
 ## Featured Projects
 
-### 🚀 Mini Redis
-A Redis-inspired in-memory database built with Go.
+### 🚀 Rodis — Redis-inspired In-Memory Database
 
-- RESP Protocol
-- TCP Server
-- Sharding
-- TTL expiration
-- Concurrent data structures
+A lightweight Redis-inspired in-memory database built from scratch in Go, focused on understanding the internals of high-performance network services and concurrent storage systems.
 
-[Repository →]
+**Highlights:**
 
----
+* Custom TCP server handling concurrent client connections
+* RESP (REdis Serialization Protocol) parsing and command processing
+* Sharded in-memory data structure to reduce lock contention
+* TTL support with active key expiration
+* Concurrent access and synchronization mechanisms
+* Modular architecture separating networking, protocol parsing, command execution, and storage
 
-### 📊 High Performance Log System
+**Key concepts:** `Go` · `TCP` · `RESP` · `Concurrency` · `Sharding` · `Synchronization`
 
-Log ingestion and analytics system designed for high throughput.
-
-- Batch processing
-- Worker pool
-- PostgreSQL
-- COPY bulk insert
-- P95 latency analytics
-
-[Repository →]
+→ **[Explore the repository](#)**
 
 ---
 
-### 📡 5G Core / SMF Projects
+### 📊 High-Performance Log Ingestion & Analytics System
 
-Experiments and implementations related to 5G Core networking.
+A high-throughput log processing system designed to efficiently ingest, batch, store, and analyze millions of events.
 
-- PDU Session
-- SMF
-- NGAP
-- N2 Interface
+The project explores performance bottlenecks commonly found in backend systems, including database write overhead, syscall costs, concurrency contention, and inefficient request processing.
 
-## Currently Learning
+**Highlights:**
 
-```text
-Go
-├── Runtime
-├── Concurrency
-├── Networking
-└── Distributed Systems
+* High-throughput HTTP log ingestion API
+* Worker pool architecture for asynchronous processing
+* Buffered channels for decoupling ingestion from persistence
+* Batch processing to reduce database round trips
+* PostgreSQL bulk insertion using `COPY`
+* Analytics for request volume, error rates, latency, and P95 latency
+* Performance profiling and bottleneck analysis using Go `pprof`
 
-Cloud Native
-├── Docker
-├── Kubernetes
-└── Observability
+**Key concepts:** `Go` · `PostgreSQL` · `Worker Pool` · `Batching` · `Profiling` · `Performance Engineering`
+
+→ **[Explore the repository](#)**
+
+---
+
+### ⚖️ Go Load Balancer & API Gateway
+
+An experimental reverse proxy and load balancing system built in Go to explore backend traffic distribution and service reliability.
+
+The project focuses on how a gateway manages multiple backend services, detects service availability, and routes incoming requests efficiently.
+
+**Highlights:**
+
+* Reverse proxy for backend services
+* Load balancing algorithms
+* Periodic health checking
+* Automatic routing to healthy backends
+* HTTP/2 communication
+* Docker-based multi-service environment
+* Real-time metrics for requests, latency, and backend health
+
+**Key concepts:** `Go` · `HTTP/2` · `Reverse Proxy` · `Load Balancing` · `Docker` · `Networking`
+
+→ **[Explore the repository](#)**
+
+---
+
+### 📡 5G Core & SMF Engineering
+
+A collection of experiments and implementations exploring the architecture and signaling procedures of the 5G Core network, with a focus on the Session Management Function (SMF).
+
+The work involves studying standardized 5G interfaces and understanding how control-plane messages are constructed, encoded, transmitted, and processed across network functions.
+
+**Areas explored:**
+
+* 5G Core Service-Based Architecture (SBA)
+* Session Management Function (SMF)
+* PDU Session lifecycle
+* N1/N2 signaling procedures
+* NGAP message structure and encoding
+* Interaction between SMF, AMF, gNodeB, and UPF
+* 3GPP specifications and protocol-driven development
+
+**Key concepts:** `5G Core` · `SMF` · `NGAP` · `PDU Session` · `Networking` · `Telecommunications`
+
+→ **[Explore the repository](#)**
+
+---
