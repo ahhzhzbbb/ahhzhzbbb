@@ -6,23 +6,88 @@ Distributed Systems and Cloud Native technologies.
 ## About Me
 
 - 🎓 Computer Science student
-- 🔭 Currently working with Go and Distributed Systems
-- 🌱 Learning Kubernetes, Cloud Native and 5G Core
+- 🔭 Currently working in Viettel High Tech
 - ⚡ Interested in Backend Infrastructure and System Design
 
-## Tech Stack
+## Tech Stack ⚙️
 
-**Languages**
+> Technologies I work with and continuously explore.
 
-Go | Java | C++ | Python | JavaScript
+<table>
+<tr>
 
-**Backend**
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+  <br>Go
+</td>
 
-Go | Spring Boot | PostgreSQL | Redis
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+  <br>Java
+</td>
 
-**Infrastructure**
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+  <br>C++
+</td>
 
-Docker | Kubernetes | Linux | Git
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+  <br>Python
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+  <br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+  <br>Redis
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <br>Docker
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+  <br>Kubernetes
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+  <br>Linux
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+  <br>Git
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+  <br>Nginx
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
+  <br>Prometheus
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
+  <br>Grafana
+</td>
+
+</tr>
+</table>
+
 
 ## Featured Projects
 
