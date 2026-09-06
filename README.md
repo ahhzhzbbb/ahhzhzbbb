@@ -11,11 +11,17 @@ Distributed Systems and Cloud Native technologies.
 
 ## Tech Stack ⚙️
 
-> Technologies I work with and continuously explore.
+> Technologies and tools I use for backend, systems, and cloud-native development.
 
 <table>
-<tr>
 
+<!-- Languages -->
+
+<tr>
+<td colspan="9"><b>Languages</b></td>
+</tr>
+
+<tr>
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
   <br>Go
@@ -42,14 +48,49 @@ Distributed Systems and Cloud Native technologies.
 </td>
 
 <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+  <br>Bash
+</td>
+
+</tr>
+
+<!-- Databases & Messaging -->
+
+<tr>
+<td colspan="9"><b>Databases & Messaging</b></td>
+</tr>
+
+<tr>
+
+<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
   <br>PostgreSQL
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  <br>MySQL
 </td>
 
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
   <br>Redis
 </td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Apache Kafka" />
+  <br>Kafka
+</td>
+
+</tr>
+
+<!-- Cloud & DevOps -->
+
+<tr>
+<td colspan="9"><b>Cloud & DevOps</b></td>
+</tr>
+
+<tr>
 
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
@@ -61,6 +102,17 @@ Distributed Systems and Cloud Native technologies.
   <br>Kubernetes
 </td>
 
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+  <br>Jenkins
+</td>
+
+</tr>
+
+<!-- Systems & Tools -->
+
+<tr>
+<td colspan="9"><b>Systems & Tools</b></td>
 </tr>
 
 <tr>
@@ -71,12 +123,34 @@ Distributed Systems and Cloud Native technologies.
 </td>
 
 <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=arch" width="48" height="48" alt="Arch Linux" />
+  <br>Arch Linux
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=redhat" width="48" height="48" alt="Red Hat" />
+  <br>Red Hat
+</td>
+
+<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
   <br>Git
 </td>
 
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=neovim" width="48" height="48" alt="Neovim" />
+  <br>Neovim
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=vim" width="48" height="48" alt="Vim" />
+  <br>Vim
+</td>
+
 </tr>
+
 </table>
+
 
 ## Featured Projects
 
