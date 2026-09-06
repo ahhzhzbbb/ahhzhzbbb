@@ -27,6 +27,11 @@ Distributed Systems and Cloud Native technologies.
 </td>
 
 <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+  <br>C++
+</td>
+
+<td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
   <br>C++
 </td>
@@ -70,10 +75,6 @@ Distributed Systems and Cloud Native technologies.
   <br>Git
 </td>
 
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-  <br>Nginx
-</td>
 </tr>
 </table>
 
