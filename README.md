@@ -77,11 +77,6 @@ Distributed Systems and Cloud Native technologies.
   <br>Redis
 </td>
 
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=kafka" width="48" height="48" alt="Apache Kafka" />
-  <br>Kafka
-</td>
-
 </tr>
 
 <!-- Cloud & DevOps -->
