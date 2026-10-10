@@ -164,7 +164,7 @@ A lightweight Redis-inspired in-memory database built from scratch in Go, focuse
 
 **Key concepts:** `Go` · `TCP` · `RESP` · `Concurrency` · `Sharding` · `Synchronization`
 
-→ **[Explore the repository](#)**
+→ **[Explore the repository](https://github.com/ahhzhzbbb/rodis)**
 
 ---
 
@@ -208,7 +208,7 @@ The project focuses on how a gateway manages multiple backend services, detects 
 
 **Key concepts:** `Go` · `HTTP/2` · `Reverse Proxy` · `Load Balancing` · `Docker` · `Networking`
 
-→ **[Explore the repository](#)**
+→ **[Explore the repository](https://github.com/ahhzhzbbb/mini-SMF)**
 
 ---
 
