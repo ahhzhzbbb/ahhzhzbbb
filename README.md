@@ -178,28 +178,6 @@ A lightweight Redis-inspired in-memory database built from scratch in Go, focuse
 
 ---
 
-### 📊 High-Performance Log Ingestion & Analytics System
-
-A high-throughput log processing system designed to efficiently ingest, batch, store, and analyze millions of events.
-
-The project explores performance bottlenecks commonly found in backend systems, including database write overhead, syscall costs, concurrency contention, and inefficient request processing.
-
-**Highlights:**
-
-* High-throughput HTTP log ingestion API
-* Worker pool architecture for asynchronous processing
-* Buffered channels for decoupling ingestion from persistence
-* Batch processing to reduce database round trips
-* PostgreSQL bulk insertion using `COPY`
-* Analytics for request volume, error rates, latency, and P95 latency
-* Performance profiling and bottleneck analysis using Go `pprof`
-
-**Key concepts:** `Go` · `PostgreSQL` · `Worker Pool` · `Batching` · `Profiling` · `Performance Engineering`
-
-→ **[Explore the repository](#)**
-
----
-
 ### ⚖️ Go Load Balancer & API Gateway
 
 An experimental reverse proxy and load balancing system built in Go to explore backend traffic distribution and service reliability.
