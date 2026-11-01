@@ -1,12 +1,12 @@
 # Hi, I'm Hoang 👋
 
 Computer Science student interested in Backend Engineering,
-Distributed Systems and Cloud Native technologies.
+Distributed Systems and Cloud Native technologies (and you)
 
 ## About Me
 
 - 🎓 Computer Science student
-- 🔭 Currently working in Viettel High Tech
+- 🔭 Straight...
 - ⚡ Interested in Backend Infrastructure and System Design
 
 ## Tech Stack ⚙️
