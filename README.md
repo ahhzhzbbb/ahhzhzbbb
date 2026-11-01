@@ -97,6 +97,16 @@ Distributed Systems and Cloud Native technologies.
   <br>Kubernetes
 </td>
 
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
+  <br>Kubernetes
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
+  <br>Kubernetes
+</td>
+
 </tr>
 
 <!-- Systems & Tools -->
