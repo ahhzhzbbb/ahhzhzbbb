@@ -97,11 +97,6 @@ Distributed Systems and Cloud Native technologies.
   <br>Kubernetes
 </td>
 
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-  <br>Jenkins
-</td>
-
 </tr>
 
 <!-- Systems & Tools -->
@@ -146,6 +141,21 @@ Distributed Systems and Cloud Native technologies.
 
 </table>
 
+## 👾 Pacman
+<!--- Source: https://github.com/abozanona/pacman-contribution-graph -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-pacman/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-pacman/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/acidicoala/acidicoala/output-pacman/pacman-contribution-graph.svg">
+</picture>
+
+## 🐍 Snake
+<!--- Source: https://github.com/Platane/snk -->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/acidicoala/acidicoala/output-snake/github-snake.svg">
+</picture>
 
 ## Featured Projects
 
