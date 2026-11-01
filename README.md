@@ -94,12 +94,12 @@ Distributed Systems and Cloud Native technologies (and you)
 
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=grafana" width="48" height="48" alt="Grafana" />
-  <br>Kubernetes
+  <br>Grafana
 </td>
 
 <td align="center" width="96">
   <img src="https://skillicons.dev/icons?i=prometheus" width="48" height="48" alt="Prometheus" />
-  <br>Kubernetes
+  <br>Prometheus
 </td>
 
 </tr>
